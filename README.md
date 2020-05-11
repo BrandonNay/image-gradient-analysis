@@ -9,6 +9,6 @@ WIP 10 May 2020
 2. Click an area of the photo containing the target gradient
 3. Get visual and numerical output, including:
    * Nature of the gradient (linear, circular)
-      * If circular, provide pixel coordinates or highlight the cicle's origin
+      * If circular, provide pixel coordinates or highlight the circle's origin
       * If linear, provide the angle of the gradient
    * Image overlay tracing the path of the gradient
