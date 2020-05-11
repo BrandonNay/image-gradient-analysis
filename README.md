@@ -1,6 +1,6 @@
 # Image Gradient Analysis
 <b>End Goal</b>: Create an application that enables exploration of image gradients, B.Y.O.G.<br>
-<b>Why</b>: Simply to challenge myself and test applying concepts created in my head.<br>
+<b>Why</b>: Simply to challenge myself and exercise applying concepts created in my head.<br>
 WIP 10 May 2020
 
 
